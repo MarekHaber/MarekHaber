@@ -6,5 +6,5 @@ const dev = {
   school: "Technical High School of Programming",
   status: "3rd year student",
   focus: ["React", "Web Development"],
-  location: "Poland"
+  location: "Poland, Wroclaw"
 };
